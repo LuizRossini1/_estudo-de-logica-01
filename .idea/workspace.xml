@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="418897d3-c2f6-40cd-afa7-c7c37589f881" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Musica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Carro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,12 +25,13 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/Calculadora.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Carro.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Musica.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Pessoa.java" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2iOF0LL9PUOM75B6HQhoUH4l8Rl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,6 +43,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Calculadora.executor": "Run",
+    "Application.Carro.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Musica.executor": "Run",
     "Application.Pessoa.executor": "Run",
@@ -50,9 +52,16 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Musica">
+  <component name="RunManager" selected="Application.Carro">
     <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculadora" />
+      <module name="_estudo de logica 01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Carro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Carro" />
       <module name="_estudo de logica 01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Carro" />
         <item itemvalue="Application.Musica" />
         <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.Pessoa" />
