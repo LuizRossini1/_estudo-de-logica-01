@@ -1,4 +1,4 @@
-/*3 - Crie uma classe Carro com atributos modelo, ano, cor e
+/*4 - Crie uma classe Carro com atributos modelo, ano, cor e
 métodos para exibir a ficha técnica e calcular a idade do carro.*/
 
 public class Carro {
